@@ -28,7 +28,7 @@
 
 ## スターターファイル
 
-- [codegrit-jp-students/codegrit-react-ch12-starter](https://github.com/codegrit-react/codegrit-react-ch12-starter)
+- [codegrit-jp-students/codegrit-react-ch12-starter](https://github.com/codegrit-jp-students/codegrit-react-ch12-starter)
 
 上記のURL先のリポジトリをフォークして、コードを書き進めて行きましょう。
 
